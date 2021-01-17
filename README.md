@@ -1,2 +1,2 @@
 # OsherEx
-first test, and then gh testing...(.)
+First test, and then gh testing....
